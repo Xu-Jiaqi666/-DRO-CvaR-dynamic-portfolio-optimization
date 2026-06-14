@@ -42,6 +42,7 @@
 ---
 
 ## 📁 仓库结构
+.
 ├── code/ # 核心 Jupyter Notebook 代码
 │ └── main_optimization.ipynb
 ├── covariate_data/ # 宏观/市场/政策协变量（示例）
