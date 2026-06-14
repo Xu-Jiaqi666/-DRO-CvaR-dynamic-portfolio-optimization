@@ -37,7 +37,7 @@
 | 最大回撤 | -24.91% | -20.75% |
 | 卡玛比率 | 0.704 | 0.433 |
 
-> 扣除 0.2%/0.3% 交易成本后，策略仍保持相对优势。详细回测曲线见 `results/` 文件夹。
+> 扣除 0.2%/0.3% 交易成本后，策略仍保持相对优势。详细回测曲线见 `results/robust_test` 文件夹。
 
 ---
 
@@ -47,7 +47,7 @@
   - main_optimization.ipynb
 - covariate_data/ # 宏观/市场/政策协变量（示例）
 - stock_data/     # 六只股票原始行情（示例）
-- results/        # 回测曲线、SHAP 图、灵敏度分析图、稳健性检验图
+- results/        # 模型回测图、每日动态资产投资比例、稳健性检验结果、灵敏度检验结果、SHAP可解释性分析结果
 - README.md       # 项目说明文档
 - requirements.txt # Python 环境依赖
 
@@ -61,7 +61,7 @@
    git clone https://github.com/Xu-Jiaqi666/-DRO-CvaR-dynamic-portfolio-optimization.git
 2.**安装依赖**
    pip install -r requirements.txt
-2.**运行主程序**
+3.**运行主程序**
    打开 code/main_optimization.ipynb，按顺序执行所有单元格
 
 ## 📄 结题论文
@@ -71,3 +71,5 @@
 邮箱：202305800134@smail.xtu.edu.cn
 
 GitHub：https://github.com/Xu-Jiaqi666/-DRO-CvaR-dynamic-portfolio-optimization
+## ⚠️ 声明
+本项目为 2025 年湖南省大学生创新创业训练计划项目（省级），已完成结题论文初稿。代码仅供学术交流使用，不构成投资建议。
