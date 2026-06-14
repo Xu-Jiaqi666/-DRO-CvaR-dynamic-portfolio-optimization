@@ -43,13 +43,13 @@
 
 ## 📁 仓库结构
 .
-├── code/ # 核心 Jupyter Notebook 代码
-│ └── main_optimization.ipynb
-├── covariate_data/ # 宏观/市场/政策协变量（示例）
-├── stock_data/ # 六只股票原始行情（示例）
-├── results/ # 回测曲线、SHAP 图、灵敏度分析图、稳健性检验图
-├── README.md # 本文件
-└── requirements.txt # Python 依赖
+code/ # 核心 Jupyter Notebook 代码
+main_optimization.ipynb
+covariate_data/ # 宏观/市场/政策协变量（示例）
+ stock_data/ # 六只股票原始行情（示例）
+ results/ # 回测曲线、SHAP 图、灵敏度分析图、稳健性检验图
+ README.md # 本文件
+requirements.txt # Python 依赖
 
 
 ---
