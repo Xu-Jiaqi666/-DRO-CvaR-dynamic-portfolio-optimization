@@ -58,7 +58,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/你的用户名/仓库名.git
+   git clone https://github.com/Xu-Jiaqi666/-DRO-CvaR-dynamic-portfolio-optimization.git
 2.**安装依赖**
    pip install -r requirements.txt
 2.**运行主程序**
@@ -70,4 +70,4 @@
 ## 📬 联系方式
 邮箱：202305800134@smail.xtu.edu.cn
 
-GitHub：https://github.com/你的用户名/仓库名
+GitHub：https://github.com/Xu-Jiaqi666/-DRO-CvaR-dynamic-portfolio-optimization
